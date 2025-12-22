@@ -1,7 +1,8 @@
 # Data Scientist
 
 ## Education
-### Master of Science in Business Analytics and Data
+### Master of Science in Business Analytics and Data 
+#### Trine University
 
 ## Work Experience
 ### Texas Capital | Sep 2024 - Present
