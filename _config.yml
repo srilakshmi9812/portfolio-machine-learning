@@ -1,3 +1,6 @@
 title: Sri Manduri
 description: Machine Learning Engineer
 theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
