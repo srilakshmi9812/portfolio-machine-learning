@@ -2,15 +2,14 @@
 layout: default
 ---
 
-<div class="header-container">
-  <img src="Bujjamma.jpg" width="120" style="border-radius:10px;" />
-  <div class="header-text">
-    <h1>Sri Manduri</h1>
-    <p class="subtitle">Machine Learning Engineer</p>
-  </div>
+<div class="hero">
+  <img src="assets/images/profile.jpg" alt="Sri Manduri" class="hero-avatar" />
+  <h1>Sri Manduri</h1>
+  <p class="hero-subtitle">Machine Learning Engineer</p>
 </div>
 
 <hr />
+
 
 
 ---
