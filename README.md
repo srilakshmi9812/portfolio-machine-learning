@@ -1,4 +1,10 @@
-![Sri Manduri](Bujjamma.jpg)
+<img
+  src="{{ 'Bujjamma.jpg' | relative_url }}"
+  alt="Sri Manduri"
+  width="120"
+  height="120"
+  style="border-radius:50%;"
+>
 # Machine Learning Engineer
 
 Financial Services & Manufacturing  
