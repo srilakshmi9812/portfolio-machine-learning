@@ -1,6 +1,6 @@
-<div align="center">
+<div align="right">
 
-<img src="{{ '/Bujjamma.jpg' | relative_url }}" width="120" height="120" style="border-radius:50%;">
+<img src="{{ '/Bujjamma.jpg' | relative_url }}" width="150" height="150" style="border-radius:50%;">
 
 </div>
 
