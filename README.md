@@ -1,6 +1,5 @@
 <div class="hero">
   <div class="hero-text">
-    <h1>Sri Manduri</h1>
     <p>Machine Learning Engineer</p>
   </div>
 
