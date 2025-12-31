@@ -1,9 +1,16 @@
-<div align="right">
+<div class="hero">
+  <div class="hero-text">
+    <h1>Sri Manduri</h1>
+    <p>Machine Learning Engineer</p>
+  </div>
 
-<img src="{{ '/Bujjamma.jpg' | relative_url }}" width="150" height="150" style="border-radius:50%;">
-
+  <div class="hero-image">
+    <img
+      src="{{ '/Bujjamma.jpg' | relative_url }}"
+      alt="Sri Manduri"
+    >
+  </div>
 </div>
-
 
 # Machine Learning Engineer
 
