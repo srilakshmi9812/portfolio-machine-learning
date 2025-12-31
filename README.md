@@ -7,7 +7,6 @@
   <div class="hero-image">
     <img
       src="{{ '/Bujjamma.jpg' | relative_url }}"
-      alt="Sri Manduri"
     >
   </div>
 </div>
